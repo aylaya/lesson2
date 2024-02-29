@@ -1,0 +1,36 @@
+#element {
+background-color: rgb(255, 6, 130);
+border: 30px;
+text-align: left;
+margin: 25px;
+    
+} 
+   
+    .group1{
+   margin: 25px;
+    background-color: rgb(230, 52, 206);
+   text-align: center;
+   margin-bottom: 50px;
+   border-radius: 30px;
+   margin-left: 500px;
+   margin-right: 500px;
+}
+   .animals{
+   background-color: rgb(171, 127, 180);
+   text-align: center;
+}
+.anim6{   
+    background-color: darkgoldenrod;
+    text-align: center;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-right: 500px;}
+
+ .address{
+
+background-color: blueviolet;
+ text-align: center;
+
+    }
+
